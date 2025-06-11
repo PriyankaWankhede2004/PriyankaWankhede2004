@@ -1,5 +1,5 @@
- <img align='right' src="https://media1.tenor.com/m/VbYjG-jloBkAAAAd/computer-working.gif" width="230"/>
 ## Hi there 👋
+ <img align='right' src="https://media1.tenor.com/m/VbYjG-jloBkAAAAd/computer-working.gif" width="230"/>
  <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 <em>Full Stack Developer . </em></br>
 
