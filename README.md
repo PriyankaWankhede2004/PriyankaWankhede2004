@@ -1,7 +1,7 @@
 ## Hi there 👋
  <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
  <img align='right' src="https://media1.tenor.com/m/VbYjG-jloBkAAAAd/computer-working.gif" width="230" />
-<em>Full Stack Developer . </em>
+<em>Full Stack Developer . </em></br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/priyankawankhede2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wankhedepriyanka740@gmail.com) 
